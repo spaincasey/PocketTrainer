@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938431959719",
+    "firebase_url": "https://pockettrainer-659a5.firebaseio.com",
+    "project_id": "pockettrainer-659a5",
+    "storage_bucket": "pockettrainer-659a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938431959719:android:ad1aa55a322e39e0",
+        "android_client_info": {
+          "package_name": "com.example.pockettrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938431959719-elr449avtjh33v5ui98u5teqddg15gf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pockettrainer",
+            "certificate_hash": "49b49ae793e21e621355515e217e010e10cfc831"
+          }
+        },
+        {
+          "client_id": "938431959719-i2mim8n7br9pdi2ikuua69fan8dm74vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYjc69QqU56LbpZKIJjagCMb8IOTGTP64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938431959719-i2mim8n7br9pdi2ikuua69fan8dm74vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
